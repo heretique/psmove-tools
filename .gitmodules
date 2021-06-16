@@ -1,0 +1,3 @@
+[submodule "psmove"]
+	path = psmove
+	url = https://github.com/heretique/psmove.git
